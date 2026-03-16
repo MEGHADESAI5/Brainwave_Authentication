@@ -1,3 +1,13 @@
+---
+title: Brainwave Authentication System
+emoji: 🧠
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+app_file: app/main.py
+pinned: false
+---
+
 # 🧠 Brainwave Authentication System
 ### EEG-Based Biometric Verification using Machine Learning
 
